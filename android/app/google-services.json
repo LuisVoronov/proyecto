@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630623799128",
+    "project_id": "mibarrioappproyect",
+    "storage_bucket": "mibarrioappproyect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630623799128:android:658b3906072a2a2775072d",
+        "android_client_info": {
+          "package_name": "edu.uelbosque.proyecto.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630623799128-s7q49hero47u21o3sbun9eoogf0j4a8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_EB5QzrU3bjiWAecaFPQfd2oAQ6I_xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630623799128-s7q49hero47u21o3sbun9eoogf0j4a8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
